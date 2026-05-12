@@ -1,4 +1,4 @@
-#  
+#  Enhance Asana for macOS with Asana for macOS exclusive Utility: markdown support & AI assistant, the #1 utility. Includes markdown support and AI assistant for a smoother
 
 
 
